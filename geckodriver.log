@@ -1,0 +1,28 @@
+1628536117523	geckodriver	INFO	Listening on 127.0.0.1:56439
+1628536287640	geckodriver	INFO	Listening on 127.0.0.1:32917
+1628536426980	geckodriver	INFO	Listening on 127.0.0.1:35711
+1628536426996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7Aw5yc"
+1628536427341	Marionette	INFO	Marionette enabled
+[GFX1-]: wr_window_new: SoftwareRasterizer
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: Fallback WR to SW-WR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7Aw5yc/search.json.mozlz4", (void 0)))
+1628536428189	Marionette	INFO	Listening on port 41785
+1628536428214	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628536433919	Marionette	INFO	Stopped listening on port 41785
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628536606935	geckodriver	INFO	Listening on 127.0.0.1:53615
+1628536606945	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq8Kd2P"
+1628536607320	Marionette	INFO	Marionette enabled
+[GFX1-]: wr_window_new: SoftwareRasterizer
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: Fallback WR to SW-WR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileq8Kd2P/search.json.mozlz4", (void 0)))
+1628536608106	Marionette	INFO	Listening on port 40931
+1628536608159	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628536610961	Marionette	INFO	Stopped listening on port 40931
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
